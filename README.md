@@ -1,4 +1,4 @@
-# sv
+# project preview link: https://dulcet-gnome-930003.netlify.app/
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
